@@ -3,7 +3,8 @@ El Levy Flight es un patron de movimiento aleatorio el cual sigue una serie de s
 Este movmiento se encuentra en contextos como en la naturaleza en la cual parece que ciertos insectos y aves siguen patrones de levy flight en su busqueda de alimentos, tambien se puede usar en la fisica, para describir el movimiento de particulas en medios complejos.
 
 ## Codigo
-```
+
+``` js
 let position;
 let stepSize;
 
@@ -40,5 +41,5 @@ line(position.x, position.y, newPosition.x, newPosition.y);
      }
   
 }
-````
-![Mbappe](https://github.com/jfUPB/simulacion-DonTuvoo/blob/main/src/assets/Captura%20de%20pantalla%202025-01-31%20104326.png)
+```
+![Mbappe](../../../../assets/Captura%20de%20pantalla%202025-01-31%20104326.png)
