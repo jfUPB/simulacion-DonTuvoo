@@ -4,16 +4,17 @@ Que pasaria si modifico esta parte del codigo ```const choice = floor(random(4))
 Que haya una alteracion al momento de generar la aleatoriedad ya que el metodo genera un numero entre 0 y 3 determinando asi el movimiento del caminante
 ## ¿Qué resultados obtuviste?
 ### Cambiandolo por los numeros 0 y 1
-![Kylian Mbappe3](https://github.com/jfUPB/simulacion-DonTuvoo/blob/main/src/assets/Screenshot%202025-01-26%20161521.png)
+
+![Kylian Mbappe3](../../../../assets/Screenshot%202025-01-26%20161521.png)
 
 El walker se movia solamente hacia la derecha ya sea con 0 o 1
 ### Cambiandolo por el numero 2
-![Kylian Mbappe](https://github.com/jfUPB/simulacion-DonTuvoo/blob/main/src/assets/Screenshot%202025-01-26%20161451.png)
+![Kylian Mbappe](../../../../assets/Screenshot%202025-01-26%20161451.png)
 
 El walker se movia aleatoriamente de derecha a izquierda
 
 ### Cambiandolo por el numero 3
-![Kylian Mpabbe2](https://github.com/jfUPB/simulacion-DonTuvoo/blob/main/src/assets/Screenshot%202025-01-26%20161505.png)
+![Kylian Mpabbe2](../../../../assets/Screenshot%202025-01-26%20161505.png)
 
 El walker se movia aleatoriamente solo hacia abajo derecha y izquierda
 ## ¿Qué aprendiste de este experimento?
@@ -21,7 +22,7 @@ Aprendi como generar aleatoriamente lineas usando un walker y un poquito de java
 
 ## Codigo lindo
 
-```
+``` js
 let walker;
 
 function setup() {
