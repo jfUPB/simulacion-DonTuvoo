@@ -1,6 +1,6 @@
 ## Codigo
 
-```
+``` js
 function setup() {
   createCanvas(400, 400);
   background(200);
@@ -44,4 +44,4 @@ function drawTriangle(x, y, size) {
 ## Que hace el codigo?
 El codigo genera figuras geometricas cuadrados, triangulos y rectangulos con una distribuccion normal.
 
-![hola](https://github.com/jfUPB/simulacion-DonTuvoo/blob/main/src/assets/Screenshot%202025-01-26%20175255.png)
+![hola](../../../../assets/Screenshot%202025-01-26%20175255.png)
