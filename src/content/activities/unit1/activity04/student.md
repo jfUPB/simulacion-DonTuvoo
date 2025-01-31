@@ -5,9 +5,9 @@ Mientras que en la distribuccion no uniforme es todo lo contrario, algunas de la
 ## Codigo Modificado
 Los puntos generados en la linea horizontal inferior estan mas acumulados en el lado derecho del lienzo
 
-![Mbappe](https://github.com/jfUPB/simulacion-DonTuvoo/blob/main/src/assets/hola.png)
+![Mbappe](../../../../assets/hola.png)
 
-```
+``` js
 function setup() {
   createCanvas(100, 100);
 
