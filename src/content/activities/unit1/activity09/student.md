@@ -6,6 +6,8 @@
 
 ![Kylian Mbappe3](../../../../assets/Aplicacion1-9.png)
 
+#### Codigo lindo
+
 ``` js
 
 let xScale = 0.015;
