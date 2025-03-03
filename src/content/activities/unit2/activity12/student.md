@@ -1,0 +1,3 @@
+Uno de los principales desafios encontrados fue ajustar la interaccion con el mouse para que el movimiento se sienta natural y responsivo. Al principio me generaba movimientos bruscos o poco predecibles.
+Otro de los retos fue lograr un equilibrio entre el numero de elemntos en pantalla para que no afectara el rendimiento del codigo, una vez puse como 10000 circulos y casi me quedo sin computador.
+A traves de estos desafios aprendi la importancia de probar diferentes valores de aceleracion y velocidad, tambien reforce el conocimiento sobre como los vectores afectan el movimiento en entornos interactivos.
