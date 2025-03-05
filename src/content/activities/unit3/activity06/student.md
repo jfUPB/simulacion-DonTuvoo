@@ -1,0 +1,1 @@
+Multiplicamos la aceleracion por 0 en cada frame porque en el mundo real la aceleracion solo existe mientras una fuerza esta actuando y lo hacemos al final de cada update para asi asegurarnos que la aceleracion solo afecte al frame actual y no se acumule indefinidamente.
