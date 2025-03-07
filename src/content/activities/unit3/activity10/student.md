@@ -171,5 +171,24 @@ class Mover {
 }
 
 class Attractor {
-  constructor()
+  constructor() {
+    this.pos = createVector(width / 2, height / 2);
+    this.mass = 20;
+  }
+
+  attract(mover) {
+    let force = p5.Vector.sub(this.pos, mover.pos);
+    let distanceSq = constrain(force.magSq(), 25, 2500);
+    let G = 1;
+    let strength = (G * this.mass * mover.mass) / distanceSq;
+    force.setMag(strength);
+    return force;
+  }
+
+  display() {
+    fill(200, 50, 50);
+    ellipse(this.pos.x, this.pos.y, this.mass * 2, this.mass * 2);
+  }
+}
+
 ```
