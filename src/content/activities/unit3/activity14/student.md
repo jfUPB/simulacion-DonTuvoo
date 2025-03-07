@@ -1,0 +1,1 @@
+Esta unidad fue un poco mas facil que las anteriores ya que casi en su totalidad fue sobre entender conceptos que ya anteriormente hemos visto en otras materias. Entonces fue mas que todo entender como aplicarlos al momento de escribir el codigo.
