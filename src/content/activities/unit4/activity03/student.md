@@ -29,7 +29,7 @@ class Vehicle {
   constructor(x, y) {
     this.position = createVector(x, y);
     this.velocity = createVector(2, 0);
-    this.direction = 1; // 1 = derecha, -1 = izquierda
+    this.direction = 1;
   }
 
   setDirection(dir) {
