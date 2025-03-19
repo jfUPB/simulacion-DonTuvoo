@@ -3,6 +3,8 @@
 
 ![Kylian Mbappe](../../../../assets/uni4-7.png)
 
+### Codigo
+
 ``` js
 class Oscillator {
   constructor() {
@@ -36,7 +38,7 @@ let oscillators = [];
 
 function setup() {
   createCanvas(600, 400);
-  for (let i = 0; i < 5; i++) { // Crea múltiples osciladores
+  for (let i = 0; i < 5; i++) {
     oscillators.push(new Oscillator());
   }
 }
