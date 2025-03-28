@@ -1,0 +1,3 @@
+Me pondria una calificacion de 4 sobre 5. Siento que tengo un buen manejo de herramientas como el ruido de perlin, aleatoriedad y distribucciones, y las he podido aplicar de buena manera en mis proyectos como por ejemplo la aplicacion interactiva que desarrolle, combinando diferentes conceptos para generar variaciones. 
+
+Aun asi no me siento en un nivel de conocimiento completo, comenzando por el hecho de que mi conocimiento en programacion es algo muy basico y no le he dedicado el tiempo que deberia por ende me quedan algunas lagunas sobre esta unidad, para llegar a el 5 me faltaria profundizar mas en los conceptos vistos en esta unidad.
