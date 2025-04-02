@@ -1,0 +1,1 @@
+Me gustaria que los usuarios interactuaran con un terreno y dependiendo de la inclinacion que tenga el terreno, un personaje que camina sobre este terreno dependiendo que tan inclinado el usuario ponga el terreno el personaje camine de una forma u otra.
