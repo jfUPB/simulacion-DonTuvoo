@@ -37,3 +37,40 @@ Se crea un sistema de particulas ``` ParticleSystem ``` que en cada fotograma ge
 
 #### Codigo y concepto
 
+Le aplique gravedad lunar asi las particulas no caen igual que antes
+
+[Codigo original](https://natureofcode.com/particles/#example-45-a-particle-system-with-inheritance-and-polymorphism)
+
+[Codigo modificado](https://editor.p5js.org/DonTuvo/sketches/C1kynympd)
+
+![Kylian Mbappe](../../../../assets/uni5-2.3.png)
+
+
+### A Particle System with Forces
+
+La gestion de las particulas y memoria es igual a el inciso anterior 
+
+#### Codigo y concepto
+
+Le aplique Perlin Noise para mover las particulas de forma mas natural, en vez de asignarles valores aleatorios.
+
+[Codigo original](https://editor.p5js.org/DonTuvo/sketches/rb741QWwQ)
+
+[Codigo modificado](https://editor.p5js.org/DonTuvo/sketches/rb741QWwQ)
+
+![Kylian Mbappe](../../../../assets/uni5-2.4.png)
+
+
+### A Particle System with a Repeller
+
+La gestion de las particulas y memoria es igual a el inciso anterior 
+
+#### Codigo y concepto
+
+Le aplique Levy Flight al repeledor para que las particulas se vayan moviendo dependiendo donde se mueva el repeledor.
+
+[Codigo original](https://natureofcode.com/particles/#example-47-a-particle-system-with-a-repeller)
+
+[Codigo modificado](https://editor.p5js.org/DonTuvo/sketches/KvGb6pNKr)
+
+![Kylian Mbappe](../../../../assets/uni5-2.5.png)
