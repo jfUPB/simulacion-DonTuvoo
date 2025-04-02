@@ -8,7 +8,7 @@ Siento que la dificultad de esta unidad estuvo mas suave que las anteriores ya q
 
 Si, el ritmo fue el adecuado, el problema es que yo tengo una mala gestion de tiempo y en estos momentos taller 7 es algo bastante pesado y se me cruzan los tiempos de trabajo y entrega
 
-### obre los materiales: ¿Qué tan útil fue la estructura de la unidad? ¿Cómo se podrían mejorar?
+### Sobre los materiales: ¿Qué tan útil fue la estructura de la unidad? ¿Cómo se podrían mejorar?
 
 Si fueron bastantes utiles al momento de guiarme, pero en el inciso 2 por ejemplo hay algunos codigos que habia que modificar y no estaban los codigos completos al momento de entrar al link y era algo que se me dificultaba ya que algunos codigos tenia que buscarlos por fuera.
 
