@@ -1,0 +1,1 @@
+El paso por valor significa que se crea una copia de la variable original, entonces cualquier modificacion en la copia no afecta a la original. Y en el paso por referencia implica que se asigna una referencia a la misma ubicacion en memoria, por lo que los cambios tambien afectan a la otra.
