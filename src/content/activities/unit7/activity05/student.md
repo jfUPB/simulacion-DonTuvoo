@@ -1,17 +1,14 @@
-## Claridad del reto
-El enunciado del reto fue claro, entendi como combinar los conceptos y el hecho de que sea el significado de una palabra lo hizo mucho mas intuitivo al momento de realizar el reto.
+## Comprension de Matter.js
+Despues de investigar y aplciarlo, siento que entendi bastante bien los fundamentos de Matter.js como crear cuerpos, configurar el motor, simular gravedad y colisioens y como integrarlo con p5js.
 
-## Introducción conceptual
-La inspiracion de Ji Lee fue bastante util, sus ejemplos me ayudaron a entender como una palabra puede ser una imagen y representar visualmente lo que significa sin dejar de ser legible.
+## Exito con la aplicacion creativa
+Estoy bastante satisfecho con el resultado. La palabra que elegi fue BOUNCE y creo que logre comunicar su significado de forma clara a traves del rebote fisico de las letras.
 
-## Investigacion de Matter.js
-Los recursos dados fueron buenos para una introduccion. Pero aun asi si necesite buscar ejemplos y tutoriales por mi cuenta, especialmente como integrarlo bien y como usar el MouseConstraint.
+## Desafio tecnico vs creativo
+Lo mas desafiante fue la parte tecnica, sobre todo entender como dibujar correctamente los cuerpos fisicos con p5js y evitar que las letras se salieran del canvas. La parte creativa fue divertida y fluyo mas naturalmente una vez que elegi la palabra.
 
-## Dificultad tecnica
-Calificaria la dificultad como media, mas que todo al principio ya que Matter.js no es tan intuitiva como otras bibliotecas y aplciar al mismo tiempo p5js tiene cosas que no siempre estan explicadas. Pese a esto con guias externas logre resolverlo.
+## Resolucion de problemas
+Tuve un problema al principio ya que las letras se podian arrastras pero se salian del canva, lo que rompia la experiencia por completo ya que los cuadrados no volvian, para solucionarlo añadi paredes invisibles en los bordes del canva usando  Bodies.rectangle.
 
-## Ritmo
-El tiempo estuvo adecuado para la unidad aunqeu al principio si senti que me costaria mas entender Matter.js antes de pasar a la parte creativa y por ende pense que necesetaria mas tiempo.
-
-## Sugerencia
-Me gustaria que la unidad tuviera mas actividades ya que me parecio bastante entretenida y siento que los conceptos de Matter.js son bastantes amplios y bastantes utiles tanto mas que solo una unidad podria tener otra.
+## Aprendizaje principal
+Lo mas significativo que aprendi fue combinar una simulacion fisica con una visualziacion grafica, entendi como herramientoas fisicas pueden usarse mas alla de simulaciones realistas como en el arte digital o diseño experimental.
