@@ -1,0 +1,1 @@
+La verdad, con las fallas que tuve en la unidad anterior pude mejorar al momento de trabajar en esta unidad, estudiando y entendiendo mejor la teoria que hay detras de cada codigo me permite entender e implementar el codigo al momento de realizar mis actividades. Una mejora podria ser trabajar mas en clase y no dejarme llevar tanto por el tiempo.

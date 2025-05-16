@@ -1,0 +1,1 @@
+Me pondria un 4.5 ya que los conceptos los entendi bastante bien, pero aplicarlos me cuesta un poquito ya que no acostumbro a programar y menos en javascript, pero cada vez voy entendiendo mas y se me va facilitando.
